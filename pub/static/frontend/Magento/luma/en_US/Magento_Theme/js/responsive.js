@@ -1,0 +1,1 @@
+/var/www/vhosts/ucloudit.co/gd.ucloudit.co/vendor/magento/theme-frontend-blank/Magento_Theme/web/js/responsive.js

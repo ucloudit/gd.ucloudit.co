@@ -1,0 +1,1 @@
+/var/www/vhosts/ucloudit.co/gd.ucloudit.co/vendor/msp/recaptcha/view/frontend/web/js/registry.js

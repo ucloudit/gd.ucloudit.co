@@ -1,0 +1,1 @@
+/var/www/vhosts/ucloudit.co/gd.ucloudit.co/vendor/magento/module-captcha/view/frontend/web/js/action/refresh.js

@@ -1,0 +1,1 @@
+/var/www/vhosts/ucloudit.co/gd.ucloudit.co/vendor/magento/theme-adminhtml-backend/web/js/theme.js

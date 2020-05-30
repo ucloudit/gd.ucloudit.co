@@ -1,0 +1,1 @@
+/var/www/vhosts/ucloudit.co/gd.ucloudit.co/vendor/magento/module-tax/view/frontend/web/js/view/checkout/minicart/subtotal/totals.js

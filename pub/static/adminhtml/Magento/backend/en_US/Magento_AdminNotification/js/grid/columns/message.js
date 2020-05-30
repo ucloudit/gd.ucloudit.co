@@ -1,0 +1,1 @@
+/var/www/vhosts/ucloudit.co/gd.ucloudit.co/vendor/magento/module-admin-notification/view/adminhtml/web/js/grid/columns/message.js
